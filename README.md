@@ -1,1 +1,3 @@
+![fc0259c0ddc24f286f31ed1aa988ad1e](https://github.com/user-attachments/assets/30327536-d22d-40fb-a94f-91e9fea7c778)
+
 A concise and elegant academic CV template for Sichuan University students and researchers. This one-page LaTeX resume is designed for academic applications and highlights education, publications, patents, projects, competitions, skills, and honors in a clear structure. Inspired by the visual identity of Sichuan University, it is especially suitable for students in computer science, software engineering, AI, and related fields. The template is easy to edit and works well for graduate school applications, research internships, scholarships, and academic job materials.
